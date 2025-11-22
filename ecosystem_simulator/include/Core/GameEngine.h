@@ -1,5 +1,5 @@
 #pragma once
-#include "../Graphics/Window.h"
+#include "graphics/Window.h"
 #include "Ecosystem.h"
 #include <chrono>       // Pour le chronomètre
 #include <string>       // Pour std::string
