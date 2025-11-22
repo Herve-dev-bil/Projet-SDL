@@ -3,10 +3,7 @@
 #include <cstdlib> // Pour std::srand
 #include <ctime>   // Pour std::time
 
-// Sous Windows, SDL remplace parfois le main. 
-// Si vous avez une erreur de linker "undefined reference to WinMain", 
-// ajoutez #define SDL_MAIN_HANDLED avant l'include SDL dans Window.hpp 
-// ou utilisez int main(int argc, char* argv[]) comme ci-dessous.
+
 
 int main(int argc, char* argv[]) {
     // Initialisation de l'aléatoire (important pour que la simulation change à chaque fois)
