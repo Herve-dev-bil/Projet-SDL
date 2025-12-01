@@ -1,4 +1,4 @@
-#include "Core/Ecosystem.h"
+#include "Ecosystem.h"
 #include <iostream>
 #include <algorithm> // Pour std::remove_if
 #include <cmath>     // Pour std::sqrt (si besoin)

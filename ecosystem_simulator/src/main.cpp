@@ -1,4 +1,4 @@
-#include "Core/GameEngine.h"
+#include "GameEngine.h"
 #include <iostream>
 #include <cstdlib> // Pour std::srand
 #include <ctime>   // Pour std::time

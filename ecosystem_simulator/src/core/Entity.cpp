@@ -1,4 +1,4 @@
-#include "Core/Entity.h"
+#include "../Core/Entity.h"
 #include <iostream>
 #include <algorithm> 
 #include <cmath>     
